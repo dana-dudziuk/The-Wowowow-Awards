@@ -1,0 +1,67 @@
+h1{
+    font-family:Ultra;
+    font-weight: lighter;
+    text-align:center;
+    font-size:46px;
+    color:purple;
+    }
+body{
+    background-image:url("https://i.pinimg.com/originals/2e/97/7e/2e977e2a10d85958d17e6b34ecd9f15b.gif");
+    background-repeat:no-repeat;
+    background-size:cover;
+    }
+p{
+    font-family:Spicy Rice;
+    color:orange;
+    text-align:center;
+    font-size:30px;
+    }
+.best{
+    font-family:Oleo Script;
+    color:orange;
+    text-align:center;
+    font-size:30px;
+    }
+img{
+    display: block;
+    margin: 0 auto;
+    }
+.movie{
+    width:150px;
+    }
+.singer{
+    width:190px;
+    } 
+.song{
+    width:190px;
+    }
+.actress{
+    width:190px;
+    }
+.actor{
+    width:150px;
+    }
+.dressed{
+    width:160px;
+    }
+.mulan{
+    color:red;
+    }
+.jackson{
+    color:green;
+    }
+.baby{
+    color:pink;
+    }
+.friends{
+    color:OrangeRed;
+    }
+.archie{
+    color:blue;
+    }
+.hale{
+    color:magenta;
+    }
+.link{
+    color:orange;
+    }
